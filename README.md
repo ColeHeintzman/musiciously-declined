@@ -4,7 +4,7 @@ Are you looking to the horizon and see your companies greatness but the daunting
    
 We work collaboratively with your team to achieve your goals.
 
-# HOW WE DO IT
+## HOW WE DO IT
 Through Search Engine Optimization, Online Reputation management, and Social Media Marketing, we generate leads through brand awareness.
  
 ## VISIT OUR SITE TO CONTACT US
