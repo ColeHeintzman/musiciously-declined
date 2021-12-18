@@ -9,29 +9,13 @@ Through Search Engine Optimization, Online Reputation management, and Social Med
  
 ## VISIT OUR SITE TO CONTACT US
 
-## Acceptance Criteria
 
-```
-GIVEN a webpage that meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN I find that they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
 
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project.
-
-- - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+## Assignment Description:
+In this assignment HTML elements were updated to more easily identify sections.
+CSS classes were combined to minimize repetitiveness.
+Comments were added in both HTML and CSS to increase efficiency when updating future requests.
+Page Links were corrected.
+Attributes were provided for images, however; this could use some improvement.
+The Website Title was changed to reflect the company.
+I added the hover feature to the navigation bar.  This was not in the acceptance criteria, but perhaps the client did not know it was available and just offering something a little extra, it is a simple deletion if not wanted.
