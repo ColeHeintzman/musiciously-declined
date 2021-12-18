@@ -7,21 +7,7 @@ We work collaboratively with your team to achieve your goals.
 # HOW WE DO IT
 Through Search Engine Optimization, Online Reputation management, and Social Media Marketing, we generate leads through brand awareness.
  
-# VISIT OUR SITE TO CONTACT US
-
-To impress the imaginary client for this Challenge, you should go the extra mile and improve their codebase for long-term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, such as by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
-
-Remember when working with a client, it is essential to read the acceptance criteria for guidance and clarity on what the client expects, especially when asked to make a judgment call, such as when an icon needs an accessible alt tag and when it is okay to leave it blank. 
-
-To successfully complete this week's Challenge, all acceptance criteria must be fully addressed!
-
-## User Story
-
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our site is optimized for search engines
-```
+## VISIT OUR SITE TO CONTACT US
 
 ## Acceptance Criteria
 
