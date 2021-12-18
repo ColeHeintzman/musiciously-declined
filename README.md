@@ -1,11 +1,8 @@
 # HORISEON WEB MARKETING
 
 Are you looking to the horizon and see your companies greatness but the daunting task of web marketing is standing in your way.  When you add Horiseon Web Marketing to your team, you are gaining world class experience.
-    Search Engine Optimization
-    Online Reputation Management
-    Social Media Marketing
-
-We work collaboratively with your team to create targeted marketing campaigns based on your aspirations.
+   
+We work collaboratively with your team to achieve your goals.
 
 # HOW WE DO IT
 Through Search Engine Optimization, Online Reputation management, and Social Media Marketing, we generate leads through brand awareness.
